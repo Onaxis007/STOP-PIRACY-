@@ -1,0 +1,2 @@
+# STOP-PIRACY-
+Intended to make a mainly music-royalty-bot to earn a set royalty amount by the owner/s (singer, instrumentalist, writer, composer or related people who contributed to its making!) specially from organizations, web pages and other commercial entities, those who are using that music in a pirated manner, will be automatically notified that, playing this music will charge those organization/s repeatedly for lisening or using it commercially! 
